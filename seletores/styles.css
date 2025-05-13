@@ -1,0 +1,54 @@
+/* Estilização do título principal */
+.titulo-principal {
+    margin-bottom: 20px;
+    color: blue;
+}
+
+/* Estilização do parágrafo com classe "destaque" */
+.destaque {
+    color: #0f0;
+    background-color: yellow;
+}
+
+/* Estilização do parágrafo com ID "especial" */
+#especial {
+    font-style: italic;
+    border-left: 3px solid green;
+    padding-left: 5px;
+}
+
+/* Estilização do parágrafo sem classe ou ID */
+p {
+    line-height: 1.6;
+}
+
+/* Estilização do primeiro bloco */
+.bloco-um p {
+    background-color: lightgray;
+}
+
+.titulo-bloco {
+    border-bottom: 2px solid gray;
+}
+
+/* Estilização do segundo bloco */
+.bloco-dois {
+    font-family: Arial, sans-serif;
+    padding: 10px;
+}
+
+/* Estilização dos itens da lista */
+.lista-itens .item {
+    margin-bottom: 5px;
+}
+
+/* Estilização do item destacado */
+.lista-itens .destaque {
+    background-color: lightblue;
+}
+
+/* Estilização do terceiro item da lista */
+#ultimo-item {
+    color: darkblue;
+}
+
